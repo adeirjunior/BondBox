@@ -1,25 +1,26 @@
 ---
+# Relationship and Memory Recording App
 
-# BondBox
-
-This app was created with the goal of helping you record information about important people in your daily life, whether they are friends, family members, or acquaintances. It’s perfect for those who have trouble remembering important details, avoiding the awkwardness of having to ask again.
+This app aims to assist people in recording information about those present or absent in their daily lives, whether they are friends, family members, or acquaintances. It’s perfect for anyone who struggles to remember important details that might cause discomfort when asking again. 
 
 ## Key Features
 
-- **Integrated Family Tree**: Never confuse if that relative is a cousin or nephew again. Our family tree will help you organize your family relationships clearly and accessibly.
+- **Integrated Family Tree**: Never forget whether that relative is a cousin or a nephew again! Our integrated family tree makes it easy to organize and visualize your family relationships.
 
-- **Important Events**: Record special dates, such as your anniversary, and other information like the date of your first kiss, so you'll never forget meaningful moments.
+- **Important Dates**: Can't remember your anniversary date? You can record special moments like the date of your first kiss and much more!
 
-- **Personality Details**: You can record personal characteristics of each person, like their hobbies, dreams, fears, and traumas. These details are invaluable in strengthening your personal connections.
+- **Local Database**: The application uses a completely local database, meaning you are the only one with access to your data, and it is your responsibility to keep it safe. You can export and import your database between different devices using a "save" file.
 
-- **Event Management**: Schedule meetups with your friends and note who will attend. The app will take care of sending reminders so you won’t miss those important moments.
+- **Personality Insights**: Detail each person's personality, hobbies they enjoy or wish to pursue, their dreams, fears, and traumas. This information is crucial for building closer relationships!
 
-- **Integrated AI**: To make things even easier, you can ask our integrated AI about the preferences of the people registered. For example, if you don’t remember if your friend Lara likes chocolate, just ask: “Do you think Lara would like a chocolate cake for her birthday?” The AI will respond based on stored information, suggesting the best choice, like a pineapple cake if that’s her favorite for special occasions.
+- **Event Management**: Planning a meetup with friends? Add who will participate and let the app remind you about it!
 
-- **Personal Diary**: Keep a diary where you can document the events of your daily life. While writing, you can link parts of the text to the profiles of friends, family, or acquaintances, automatically adding these events to their respective profiles in an organized manner.
+- **Integrated AI Assistance**: Instead of searching for specific information within the app, you can simply ask our integrated AI! For example, if you want to buy a chocolate cake for your friend Lara's birthday but can’t recall if she likes chocolate, just ask the AI: “Do you think Lara would like me to buy a chocolate cake for her birthday?” The AI will respond with something like, “Lara really likes chocolate! However, she might want a different flavor for her birthday party tomorrow. She has mentioned preferring pineapple cake for special occasions. I recommend getting a pineapple-flavored cake; she likes that a lot too!”
+
+- **Personal Diary**: Maintain your own diary where you can document your daily events. As you write, you can link parts of your text to friends, acquaintances, or family members, automatically adding these details to their respective profiles.
 
 ## Contribution
 
-This app is a powerful tool for anyone who wants to improve personal connections by keeping track of important details about the people around them. We appreciate you using our service and hope it enhances your daily interactions!
+This application is a powerful tool for anyone looking to improve personal connections by keeping track of important details about the people around them. Thank you for using our service, and we hope it enhances your daily interactions!
 
 ---
