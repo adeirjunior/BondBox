@@ -1,5 +1,5 @@
 ---
-# Relationship and Memory Recording App
+# BondBox
 
 This app aims to assist people in recording information about those present or absent in their daily lives, whether they are friends, family members, or acquaintances. It’s perfect for anyone who struggles to remember important details that might cause discomfort when asking again. 
 
